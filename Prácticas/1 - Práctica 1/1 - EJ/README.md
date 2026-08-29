@@ -11,13 +11,13 @@
 	- Dice esto en **base64**: IC{Enc0deAr_n0_3s_enCr1pt4r!}
 
 - 9-14-20-18-15-4-21-3-20-9-15-14 20-15 3-25-2-5-18-19-5-3-21-18-9-20-25
-	- Si cambiamos cada número por su letra en el alfabeto: IC{introductiontocybersecurity} *consultar porque me dice que es incorrecta*
+	- Si cambiamos cada número por su letra en el alfabeto: IC{introduction to cybersecurity}
 
 - 00-11-15-07-00-01-04-19_08-13-03-04-23
 	- Lo mismo pero ahora el alfabeto empieza por la posición A = 0. Le sumé a todos los números 1 e hice el mismo decode: IC{alphabet_index}
 
 - 49 43 7b 68 65 78 5f 65 6e 63 30 64 31 6e 47 5f 73 74 49 6c 4c 5f 65 34 7a 79 7d
-	- Se ve claramente que es hexa porque va desde el 0 al 0 y de la A a la F: IC{hex_enc0d1nG_stIlL_e4zy}
+	- Se ve claramente que es hexa porque va desde el 0 al 9 y de la A a la F: IC{hex_enc0d1nG_stIlL_e4zy}
 
 - ⠁⠧⠁⠙⠁ ⠅⠑⠙⠁⠧⠗⠁
 	- Claramente es morse: IC{AVADA KEDAVRA}
