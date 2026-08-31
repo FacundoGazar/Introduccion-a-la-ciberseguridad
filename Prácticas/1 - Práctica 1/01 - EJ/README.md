@@ -21,5 +21,3 @@
 
 - ⠁⠧⠁⠙⠁ ⠅⠑⠙⠁⠧⠗⠁
 	- Claramente es morse: IC{AVADA KEDAVRA}
-
-- Revele el mensaje en la imagen - Writeup (*no pasaron ninguna imagen asi que no se*)
