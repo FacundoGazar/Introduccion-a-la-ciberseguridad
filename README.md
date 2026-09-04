@@ -8,3 +8,4 @@
 
 ## Prácticas
 * [**Práctica 0**](https://github.com/FacundoGazar/Introduccion-a-la-ciberseguridad/tree/main/Pr%C3%A1cticas/0%20-%20Pr%C3%A1ctica%200)
+* [**Práctica 1**](https://github.com/FacundoGazar/Introduccion-a-la-ciberseguridad/tree/main/Pr%C3%A1cticas/1%20-%20Pr%C3%A1ctica%201)
